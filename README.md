@@ -4,3 +4,9 @@
 2. Michael
 3. Anel
 4. Lesly
+
+## Faculty
+1. Economía
+2. Sociología
+3. Psicología
+4. Economía
